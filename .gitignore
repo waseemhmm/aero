@@ -1,0 +1,15 @@
+# build artifacts
+*.dat
+*.vtu
+*.csv
+*.log
+*.pid
+*.mat
+*.png
+*.su2
+# tutorial clone
+tutorials/
+# scratch
+buffet/swbli/
+swbli/
+!buffet/pipeline/Makefile
